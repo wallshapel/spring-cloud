@@ -1,0 +1,107 @@
+.idea
+.project
+
+# car-service
+car-service/HELP.md
+car-service/target/
+car-service/!.mvn/wrapper/maven-wrapper.jar
+car-service/!**/src/main/**/target/
+car-service/!**/src/test/**/target/
+
+### STS ###
+car-service/.apt_generated
+car-service/.classpath
+car-service/.factorypath
+car-service/.project
+car-service/.settings
+car-service/.springBeans
+car-service/.sts4-cache
+
+### IntelliJ IDEA ###
+car-service/.idea
+car-service/*.iws
+car-service/*.iml
+car-service/*.ipr
+
+### NetBeans ###
+car-service/nbproject/private/
+car-service/nbbuild/
+car-service/dist/
+car-service/nbdist/
+car-service/.nb-gradle/
+car-service/uild/
+car-service/!**/src/main/**/build/
+car-service/!**/src/test/**/build/
+
+### VS Code ###
+car-service/.vscode/
+
+# moto-service
+moto-service/HELP.md
+moto-service/target/
+moto-service/!.mvn/wrapper/maven-wrapper.jar
+moto-service/!**/src/main/**/target/
+moto-service/!**/src/test/**/target/
+
+### STS ###
+moto-service/.apt_generated
+moto-service/.classpath
+moto-service/.factorypath
+moto-service/.project
+moto-service/.settings
+moto-service/.springBeans
+moto-service/.sts4-cache
+
+### IntelliJ IDEA ###
+moto-service/.idea
+moto-service/*.iws
+moto-service/*.iml
+moto-service/*.ipr
+
+### NetBeans ###
+moto-service/nbproject/private/
+moto-service/nbbuild/
+moto-service/dist/
+moto-service/nbdist/
+moto-service/.nb-gradle/
+moto-service/uild/
+moto-service/!**/src/main/**/build/
+moto-service/!**/src/test/**/build/
+
+### VS Code ###
+moto-service/.vscode/
+
+# user-service
+user-service/HELP.md
+user-service/target/
+user-service/!.mvn/wrapper/maven-wrapper.jar
+user-service/!**/src/main/**/target/
+user-service/!**/src/test/**/target/
+
+### STS ###
+user-service/.apt_generated
+user-service/.classpath
+user-service/.factorypath
+user-service/.project
+user-service/.settings
+user-service/.springBeans
+user-service/.sts4-cache
+
+### IntelliJ IDEA ###
+user-service/.idea
+user-service/*.iws
+user-service/*.iml
+user-service/*.ipr
+
+### NetBeans ###
+user-service/nbproject/private/
+user-service/nbbuild/
+user-service/dist/
+user-service/nbdist/
+user-service/.nb-gradle/
+user-service/uild/
+user-service/!**/src/main/**/build/
+user-service/!**/src/test/**/build/
+
+### VS Code ###
+user-service/.vscode/
