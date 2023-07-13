@@ -4,7 +4,9 @@ public class Moto {
     
 	private String trademark;
     
-	private String model;    
+	private String model;  
+	
+	private long userId;
 
     public String getTrademark() {
         return trademark;
@@ -21,6 +23,14 @@ public class Moto {
     public void setModel(String model) {
         this.model = model;
     }
+    
+    public long getUserId() {
+		return userId;
+	}
+
+	public void setUserId(long userId) {
+		this.userId = userId;
+	}
     
     public Moto() {
         super();
